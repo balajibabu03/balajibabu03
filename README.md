@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Balaji B</h1>
 <h3 align="center">A passionate frontend developer from Chennai, India</h3>
-<img align="center" alt="image" src="" ></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=balajibabu03&label=Profile%20views&color=0e75b6&style=flat" alt="balajibabu03" /> </p>
 
